@@ -1,4 +1,4 @@
-# PROJECT_NAME - 自适应多智能体评审画布 (v2.1)
+# PROJECT_NAME - 自适应评审画布
 
 > 协作模式：MODE
 > 执行深度：COMPLEXITY（轻量/标准/深度）
@@ -266,7 +266,7 @@
 
 ## 输出格式
 
-### GitHub Issue 生成规则（Enhancement 8）
+### GitHub Issue 生成规则
 
 **自动生成：** P0 / P1
 **按需生成：** P2（用户请求时）
@@ -300,7 +300,7 @@ X 小时
 评审画布：CANVAS_PATH
 ```
 
-### ADR 生成规则（Enhancement 9）
+### ADR 生成规则
 
 **仅在满足全部条件时生成：**
 - [x] 存在架构决策（非 bug 修复）
